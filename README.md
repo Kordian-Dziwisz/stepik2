@@ -29,3 +29,5 @@ _cursive_
 </html>
 
 code `code` code
+
+![Test](https://github.com/Kordian-Dziwisz/stepik2/blob/main/homeworld_angel.jpeg 'Test')
